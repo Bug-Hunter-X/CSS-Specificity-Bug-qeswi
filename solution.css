@@ -1,0 +1,7 @@
+/* solution.css */
+.container {
+  background-color: lightblue; /*intended style*/
+}
+.container .box {
+    background-color: lightgreen !important; /*overriding the previous style*/
+}
