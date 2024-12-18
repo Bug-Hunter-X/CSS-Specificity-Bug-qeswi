@@ -1,0 +1,1 @@
+The CSS specificity rules can be difficult to understand and debug, leading to unexpected styling issues.  For example, if you have two styles that are equally specific, the one that appears last in the CSS file will take precedence. This can be problematic when you're trying to override a style from an external stylesheet or a framework.
